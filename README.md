@@ -17,6 +17,7 @@ Prompts alone are insufficient for copyright claims.
 AI as a tool: If an AI tool is used in the creative process, the human user's contribution may be copyrightable.
 
 Key Takeaways:
+
 Existing Copyright Law is Sufficient: The report affirms that current copyright laws can address the challenges posed by AI-generated content without immediate legislative changes.
 
 Human Creativity is Central: AI-generated works can only be protected if a human author contributes sufficient creativity and control over the final output.
@@ -30,6 +31,7 @@ International Variances: Countries are taking different approaches, with some al
 Policy Considerations: The report weighs the potential benefits of copyright protection for AI-generated works against concerns that AI proliferation could reduce human creative incentives.
 
 Issues Identified in the Report:
+
 Lack of Clear Precedents: The rapid evolution of AI technologies has outpaced legal rulings, leading to uncertainty in copyright cases.
 
 Challenge of AI-Assisted Works: The report highlights difficulty in determining how much human intervention is necessary to claim authorship.
