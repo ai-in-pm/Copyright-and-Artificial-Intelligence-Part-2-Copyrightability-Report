@@ -3,15 +3,15 @@ The "Copyright and Artificial Intelligence, Part 2: Copyrightability" report by 
 
 The report is structured as follows:
 
--Introduction: Reviews technological advancements and their implications for copyright law.
-
--Authorship & AI: Explores legal frameworks, assistive AI tools, the role of prompts, and human contributions to AI-generated content.
-
--International Approaches: Compares copyright policies across various countries.
-
--Arguments for Legal Change: Discusses incentives for human creators, competitive concerns, and the potential need for legislative updates.
-
--Conclusion: Emphasizes that existing copyright law is sufficient for determining copyrightability but recognizes ongoing technological evolution.
+    -Introduction: Reviews technological advancements and their implications for copyright law.
+    
+    -Authorship & AI: Explores legal frameworks, assistive AI tools, the role of prompts, and human contributions to AI-generated content.
+    
+    -International Approaches: Compares copyright policies across various countries.
+    
+    -Arguments for Legal Change: Discusses incentives for human creators, competitive concerns, and the potential need for legislative updates.
+    
+    -Conclusion: Emphasizes that existing copyright law is sufficient for determining copyrightability but recognizes ongoing technological evolution.
 
 
 The U.S. Copyright Office concludes that:
