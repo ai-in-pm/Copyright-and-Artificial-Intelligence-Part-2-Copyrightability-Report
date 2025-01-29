@@ -51,4 +51,5 @@ Issues Identified in the Report:
     -Future Legal Uncertainties: As AI advances, finer distinctions may be needed between human-authored and AI-assisted works.
 
 Conclusion:
+
 The U.S. Copyright Office does not recommend immediate changes to copyright law but will continue monitoring technological advancements. Future cases and judicial rulings will shape the application of copyright principles to AI-generated works​.
