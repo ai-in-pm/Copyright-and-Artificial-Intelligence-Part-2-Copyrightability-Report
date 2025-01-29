@@ -4,16 +4,24 @@ The "Copyright and Artificial Intelligence, Part 2: Copyrightability" report by 
 The report is structured as follows:
 
 Introduction: Reviews technological advancements and their implications for copyright law.
+
 Authorship & AI: Explores legal frameworks, assistive AI tools, the role of prompts, and human contributions to AI-generated content.
+
 International Approaches: Compares copyright policies across various countries.
+
 Arguments for Legal Change: Discusses incentives for human creators, competitive concerns, and the potential need for legislative updates.
+
 Conclusion: Emphasizes that existing copyright law is sufficient for determining copyrightability but recognizes ongoing technological evolution.
+
 
 The U.S. Copyright Office concludes that:
 
 Human authorship is required for copyright protection.
+
 Fully AI-generated works are not copyrightable, but works with human creative input may qualify.
+
 Prompts alone are insufficient for copyright claims.
+
 AI as a tool: If an AI tool is used in the creative process, the human user's contribution may be copyrightable.
 
 Key Takeaways:
